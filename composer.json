@@ -1,0 +1,8 @@
+{
+    "name": "sixeightmedia/simple-object",
+    "description": "CRUD operations for database and array based objects",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "catfan/medoo": "^1.5"
+    }
+}
